@@ -20,6 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <title>Manage Blood Inventory</title>
     <link rel="stylesheet" href="../assets/style.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <header><h1>Admin - Manage Inventory</h1></header>

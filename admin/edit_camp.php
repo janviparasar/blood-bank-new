@@ -36,6 +36,7 @@ $camp = $result->fetch_assoc();
 <head>
     <title>Edit Camp</title>
     <link rel="stylesheet" href="../assets/style.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <header><h1>Admin - Edit Camp</h1></header>

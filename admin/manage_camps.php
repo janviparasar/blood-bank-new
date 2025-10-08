@@ -19,6 +19,7 @@ if (isset($_GET['delete'])) {
 <head>
     <title>Manage Blood Camps</title>
     <link rel="stylesheet" href="../assets/style.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <header><h1>Admin - Manage Blood Camps</h1></header>

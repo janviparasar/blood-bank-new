@@ -30,6 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <title>Add New Camp</title>
     <link rel="stylesheet" href="../assets/style.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <header><h1>Admin - Add New Camp</h1></header>

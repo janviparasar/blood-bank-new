@@ -16,6 +16,7 @@ $total_units = $conn->query("SELECT SUM(units) as total FROM blood_inventory")->
 <head>
     <title>Admin Dashboard</title>
     <link rel="stylesheet" href="../assets/style.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <header><h1>Admin Dashboard</h1></header>

@@ -31,6 +31,7 @@ if ($filter_status != 'All' && in_array($filter_status, ['Pending', 'Approved', 
 <head>
     <title>Manage Blood Requests</title>
     <link rel="stylesheet" href="../assets/style.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <header><h1>Admin - Manage Requests</h1></header>

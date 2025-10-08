@@ -17,6 +17,7 @@ if (isset($_GET['search'])) {
 <head>
     <title>Manage Donors</title>
     <link rel="stylesheet" href="../assets/style.css">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <header><h1>Admin - Manage Donors</h1></header>
