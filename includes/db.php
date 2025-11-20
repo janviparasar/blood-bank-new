@@ -1,5 +1,8 @@
 <?php
-session_start();
+// Check if a session is not already active before starting one
+if (session_status() == PHP_SESSION_NONE) {
+    session_start();
+}
 
 $host = 'localhost';
 $username = 'root';
